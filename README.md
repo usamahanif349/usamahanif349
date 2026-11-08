@@ -29,7 +29,7 @@ Predicts air quality and health category for 10 Pakistani cities using 10 years 
 - IEEE-format paper archived on Zenodo with a DOI and linked to my [ORCID](https://orcid.org/0009-0001-8811-4058), plus a live Streamlit app with a city map, trends and comparisons
 - `Python` `scikit-learn` `XGBoost` `TensorFlow` `SHAP` `Streamlit`
 
-[Live app](https://pakistan-aqi-prediction-frhdsrc2ivtubpkdotcau5.streamlit.app/) · [Kaggle notebook](https://www.kaggle.com/code/usamasadi/pakistan-aqi-prediction-ml-vs-deep-learning-10-c) · [Paper](https://doi.org/10.5281/zenodo.22859477) · [Code](https://github.com/usamahanif349/Pakistan-AQI-Prediction)
+[Live app](https://pakistan-aqi-prediction-frhdsrc2ivtubpkdotcau5.streamlit.app/) · [Kaggle notebook](https://www.kaggle.com/code/usamasadi/pakistan-aqi-prediction-ml-vs-deep-learning-10-c) · [Model on Hugging Face](https://huggingface.co/usamahanif349/pakistan-aqi-predictor) · [Paper](https://doi.org/10.5281/zenodo.22859477) · [Code](https://github.com/usamahanif349/Pakistan-AQI-Prediction)
 
 #### ⚽ [Sports Vision Tracker](https://github.com/usamahanif349/Sports-vision-tracker): player tracking and match analytics
 A computer vision pipeline that tracks players and the ball in match footage and turns it into analytics.
