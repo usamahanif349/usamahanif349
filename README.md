@@ -41,11 +41,11 @@ A computer vision pipeline that tracks players and the ball in match footage and
 
 #### 📄 [DocuQuery](https://github.com/usamahanif349/DocuQuery-RAG): multi-PDF question answering (RAG)
 Upload several PDFs and ask questions; every answer cites the exact document and page it came from.
-- FastEmbed embeddings with FAISS vector search, and Llama 3.3 70B through the Groq API for fast answers
+- Hybrid search (FAISS vectors + BM25 keywords) with cross-encoder re-ranking, and GPT-OSS models on Groq for fast answers
 - Page-level citations so answers can be checked, plus adjustable chunk size, overlap and top-k
 - `Python` `LangChain` `FAISS` `Groq` `Streamlit`
 
-[Code](https://github.com/usamahanif349/DocuQuery-RAG)
+[Live app](https://docuquery-rag-fpglnj4fz59mxbh5kys5uz.streamlit.app/) · [Code](https://github.com/usamahanif349/DocuQuery-RAG)
 
 #### 📊 [Big Data Analytics projects](https://github.com/usamahanif349/big-data-analytics-course): marketing analytics for Pakistani brands
 A series of course projects, each with its own repository and live dashboard:
