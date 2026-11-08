@@ -6,6 +6,7 @@
   <a href="mailto:usamahanif349@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://orcid.org/0009-0001-8811-4058"><img src="https://img.shields.io/badge/ORCID-0009--0001--8811--4058-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://www.kaggle.com/usamasadi"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://huggingface.co/usamahanif349"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
 </p>
 
 ---
