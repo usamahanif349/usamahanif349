@@ -2,6 +2,7 @@
 <h3 align="center">AI developer · Machine learning · Computer vision · LLM apps · Data analytics</h3>
 
 <p align="center">
+  <a href="https://usamahanif349.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-12263F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"></a>
   <a href="https://www.linkedin.com/in/usama-hanif-8956bb1b0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:usamahanif349@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://orcid.org/0009-0001-8811-4058"><img src="https://img.shields.io/badge/ORCID-0009--0001--8811--4058-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
