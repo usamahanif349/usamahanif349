@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/usama-hanif-8956bb1b0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:usamahanif349@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://orcid.org/0009-0001-8811-4058"><img src="https://img.shields.io/badge/ORCID-0009--0001--8811--4058-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
 ---
@@ -20,10 +21,10 @@ I'm a BS Artificial Intelligence student at the University of Management and Tec
 
 ### Featured projects
 
-#### 🌫️ [Pakistan AQI Prediction](https://github.com/usamahanif349/Pakistan-AQI-Prediction): ML vs deep learning, with a published paper
+#### 🌫️ [Pakistan AQI Prediction](https://github.com/usamahanif349/Pakistan-AQI-Prediction): ML vs deep learning, with a research paper
 Predicts air quality and health category for 10 Pakistani cities using 10 years of data. It compares classical ML, an ANN and an LSTM forecaster.
 - Tuned Gradient Boosting: **R² 0.974** and **91.7% classification accuracy**, validated with 5-fold cross-validation; SHAP explains the predictions
-- IEEE-format paper with a Zenodo DOI, plus a live Streamlit app with a city map, trends and comparisons
+- IEEE-format paper archived on Zenodo with a DOI and linked to my [ORCID](https://orcid.org/0009-0001-8811-4058), plus a live Streamlit app with a city map, trends and comparisons
 - `Python` `scikit-learn` `XGBoost` `TensorFlow` `SHAP` `Streamlit`
 
 [Live app](https://pakistan-aqi-prediction-frhdsrc2ivtubpkdotcau5.streamlit.app/) · [Paper](https://doi.org/10.5281/zenodo.22859477) · [Code](https://github.com/usamahanif349/Pakistan-AQI-Prediction)
