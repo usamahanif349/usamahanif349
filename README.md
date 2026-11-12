@@ -24,6 +24,17 @@ I'm a BS Artificial Intelligence student at the University of Management and Tec
 
 ### Featured projects
 
+#### 👟 [Joota Pulse](https://usamahanif349.github.io/joota-pulse/): audience intelligence for Pakistani footwear brands
+A marketing web app built on 6,724 real YouTube comments about 8 brands (Borjan, Servis, Ndure, Stylo and more). It finds the buyers a brand is ignoring and tells the team what to do.
+- Found that brands answered **1 of 65** buying questions on their own videos, with 832 more waiting under creator videos (about Rs 2.9 lakh in missed sales, as an estimate)
+- Leads inbox with ready replies in Roman Urdu and English, 11 customer groups, a creator leaderboard, campaign ideas and a one-click client report
+- Multilingual AI embeddings + K-Means clustering, Isolation Forest for unusual posts, pandas vs Spark benchmark on 3 million comments
+- `Python` `scikit-learn` `Sentence Transformers` `PySpark` `YouTube Data API` `JavaScript`
+
+[Live app](https://usamahanif349.github.io/joota-pulse/) · [Code](https://github.com/usamahanif349/pk-footwear-audience-engine)
+
+<p align="center"><img src="https://raw.githubusercontent.com/usamahanif349/joota-pulse/main/preview.jpg" width="85%" alt="Joota Pulse home screen"></p>
+
 #### 🌫️ [Pakistan AQI Prediction](https://github.com/usamahanif349/Pakistan-AQI-Prediction): ML vs deep learning, with a research paper
 Predicts air quality and health category for 10 Pakistani cities using 10 years of data. It compares classical ML, an ANN and an LSTM forecaster.
 - Tuned Gradient Boosting: **R² 0.974** and **91.7% classification accuracy**, validated with 5-fold cross-validation; SHAP explains the predictions
@@ -52,6 +63,7 @@ Upload several PDFs and ask questions; every answer cites the exact document and
 A series of course projects, each with its own repository and live dashboard:
 - **[Footwear sentiment analysis](https://github.com/usamahanif349/pk-footwear-sentiment-analysis):** 881 real comments in English, Roman Urdu and Urdu, analysed with a multilingual transformer (XLM-R)
 - **[Ad budget optimizer](https://github.com/usamahanif349/pk-footwear-budget-optimizer):** where to spend an ad budget, what to say and when, with Spark and Hadoop benchmarks
+- **[Joota Pulse](https://usamahanif349.github.io/joota-pulse/):** audience groups, missed sales and campaign ideas from 6,724 real comments (featured above)
 - `PySpark` `Hadoop` `Hugging Face` `SciPy` `Plotly` `Streamlit`
 
 ---
