@@ -24,16 +24,16 @@ I'm a BS Artificial Intelligence student at the University of Management and Tec
 
 ### Featured projects
 
-#### 👟 [Joota Pulse](https://usamahanif349.github.io/joota-pulse/): audience intelligence for Pakistani footwear brands
+#### 👟 [Joota Pulse](https://joota-pulse.vercel.app): audience intelligence for Pakistani footwear brands
 A live marketing web app built on 7,400+ real YouTube comments about 8 brands (Borjan, Servis, Ndure, Stylo and more), refreshed automatically every week. It finds the buyers a brand is ignoring and tells the team what to do.
 - Found that brands answered **1 of 65** buying questions on their own videos, with 1,000+ more waiting under creator videos
-- Leads inbox with ready replies in Roman Urdu and English, a brand health score ranked against 7 competitors, alerts, a weekly digest and a free audit page for every brand
+- Leads inbox with ready replies in Roman Urdu and English, a brand health score ranked against 7 competitors, alerts, a weekly digest, WhatsApp sharing and a free audit page for every brand (live on Vercel)
 - Multilingual AI embeddings + K-Means clustering, Isolation Forest for unusual posts, pandas vs Spark benchmark on 3 million comments
 - `Python` `scikit-learn` `Sentence Transformers` `PySpark` `YouTube Data API` `JavaScript` `GitHub Actions`
 
-[Live app](https://usamahanif349.github.io/joota-pulse/) · [Free brand audit](https://usamahanif349.github.io/joota-pulse/audit.html?brand=Borjan) · [Code](https://github.com/usamahanif349/pk-footwear-audience-engine)
+[Live app](https://joota-pulse.vercel.app) · [Free brand audit](https://joota-pulse.vercel.app/audit.html?brand=Borjan) · [Code](https://github.com/usamahanif349/pk-footwear-audience-engine)
 
-<p align="center"><a href="https://usamahanif349.github.io/joota-pulse/"><img src="https://usamahanif349.github.io/joota-pulse/shots/dark/today.jpg" width="85%" alt="Joota Pulse, live screenshot"></a></p>
+<p align="center"><a href="https://joota-pulse.vercel.app"><img src="https://usamahanif349.github.io/joota-pulse/shots/dark/today.jpg?v=1114b" width="85%" alt="Joota Pulse, live screenshot"></a></p>
 
 #### 🌫️ [Pakistan AQI Prediction](https://github.com/usamahanif349/Pakistan-AQI-Prediction): ML vs deep learning, with a research paper
 Predicts air quality and health category for 10 Pakistani cities using 10 years of data. It compares classical ML, an ANN and an LSTM forecaster.
@@ -63,7 +63,7 @@ Upload several PDFs and ask questions; every answer cites the exact document and
 A series of course projects, each with its own repository and live dashboard:
 - **[Footwear sentiment analysis](https://github.com/usamahanif349/pk-footwear-sentiment-analysis):** 881 real comments in English, Roman Urdu and Urdu, analysed with a multilingual transformer (XLM-R)
 - **[Ad budget optimizer](https://github.com/usamahanif349/pk-footwear-budget-optimizer):** where to spend an ad budget, what to say and when, with Spark and Hadoop benchmarks
-- **[Joota Pulse](https://usamahanif349.github.io/joota-pulse/):** live, weekly-refreshed audience intelligence from 7,400+ real comments (featured above)
+- **[Joota Pulse](https://joota-pulse.vercel.app):** live, weekly-refreshed audience intelligence from 7,400+ real comments (featured above)
 - `PySpark` `Hadoop` `Hugging Face` `SciPy` `Plotly` `Streamlit`
 
 ---
