@@ -25,8 +25,8 @@ I'm a BS Artificial Intelligence student at the University of Management and Tec
 ### Featured projects
 
 #### 👟 [Joota Pulse](https://joota-pulse.vercel.app): audience intelligence for Pakistani footwear brands
-A live marketing web app built on 7,400+ real YouTube comments about 8 brands (Borjan, Servis, Ndure, Stylo and more), refreshed automatically every week. It finds the buyers a brand is ignoring and tells the team what to do.
-- Found that brands answered **1 of 65** buying questions on their own videos, with 1,000+ more waiting under creator videos
+A live marketing web app built on 13,000+ real YouTube comments about 11 brands (Borjan, Servis, Ndure, Stylo and more), refreshed automatically every week. It finds the buyers a brand is ignoring and tells the team what to do.
+- Found that brands answered **1 of 89** buying questions on their own videos, with 1,700+ more waiting under creator videos
 - Leads inbox with ready replies in Roman Urdu and English, a brand health score ranked against 7 competitors, alerts, a weekly digest, WhatsApp sharing and a free audit page for every brand (live on Vercel)
 - Multilingual AI embeddings + K-Means clustering, Isolation Forest for unusual posts, pandas vs Spark benchmark on 3 million comments
 - `Python` `scikit-learn` `Sentence Transformers` `PySpark` `YouTube Data API` `JavaScript` `GitHub Actions`
@@ -63,7 +63,7 @@ Upload several PDFs and ask questions; every answer cites the exact document and
 A series of course projects, each with its own repository and live dashboard:
 - **[Footwear sentiment analysis](https://github.com/usamahanif349/pk-footwear-sentiment-analysis):** 881 real comments in English, Roman Urdu and Urdu, analysed with a multilingual transformer (XLM-R)
 - **[Ad budget optimizer](https://github.com/usamahanif349/pk-footwear-budget-optimizer):** where to spend an ad budget, what to say and when, with Spark and Hadoop benchmarks
-- **[Joota Pulse](https://joota-pulse.vercel.app):** live, weekly-refreshed audience intelligence from 7,400+ real comments (featured above)
+- **[Joota Pulse](https://joota-pulse.vercel.app):** live, weekly-refreshed audience intelligence from 13,000+ real comments (featured above)
 - `PySpark` `Hadoop` `Hugging Face` `SciPy` `Plotly` `Streamlit`
 
 ---
